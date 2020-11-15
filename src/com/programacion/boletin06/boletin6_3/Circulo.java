@@ -37,7 +37,6 @@ public class Circulo {
         double lonxitude;
         lonxitude = 2*radio*Math.PI;
         return lonxitude;
-
     }
 
 
