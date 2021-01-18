@@ -14,5 +14,5 @@ package com.programacion.boletin_09.Ejercicio3;
 
      public void setAltura(float altura){this.altura = altura;}
 
-     public float calcularArea(){return (base*altura);}
+     public  float calcularArea(){return (base*altura);}
 }
